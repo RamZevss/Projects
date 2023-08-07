@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+img{
+	max-width: 100%;
+	vertical-align: middle;
+	height: auto;
+}
+
+img{
+	margin: 0;
+	border: 0;
+}
